@@ -1,0 +1,120 @@
+.image1{
+    position: relative;
+    left: 18%;
+    
+}
+
+.main-page{
+    background-color: rgb(33, 43, 45);
+}
+
+.four{
+    margin-left: 20%;
+}
+
+
+.topnav {
+    background-color:  rgb(58, 89, 94);
+    overflow: hidden;
+    margin-left: 18%;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 842px;
+  }
+
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .topnav a.active {
+    background-color: rgba(6, 129, 211, 0.274);
+    color: white;
+  }
+
+  .menu{
+      color: white;
+      margin-left: 18%;
+      font-size: x-large;
+  }
+
+  .list {
+      color: white;
+      margin-left: 15%;
+      text-decoration: underline;
+      font-size: small;
+  }
+
+  .Gallery {
+      margin-left: 35%;
+      position: relative;
+      margin-top: -272px;
+      margin-right: 18%;
+      color: white;
+      font-size: xx-large;
+  }
+
+  .block{
+    color: white;
+    margin-left:220px;
+    margin-top: 20%;
+    margin-right: 900px;
+    position: relative;
+    top: -150px;
+    font-size: xx-large;
+}
+
+.subscription {
+        color: white;
+        margin-left: 35%;
+        margin-right: 600px;
+        margin-top: -550px;
+        position: relative;
+        font-size: xx-large;
+      
+    }
+
+.other-services{
+        color: white;
+        margin-left:60%;
+        margin-right:18%;
+        margin-top:-260px;
+        position: relative;
+        font-size: x-large;
+        
+        
+    }
+  
+
+
+.text {
+        color: white;
+        font-size: small;
+       }
+  
+ .button{
+        width: 872px;
+        margin-left:220px;
+        margin-top:15%;
+        margin-right: 900px;
+        position: relative;
+        color: white;
+    } 
+  
+footer{
+    text-align: center;
+    color: white;
+}
+ 
+  
